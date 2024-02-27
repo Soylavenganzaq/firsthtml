@@ -1,0 +1,11 @@
+body {
+  background-color: #89440b;
+  
+}
+
+.nome-cantora{
+  margin-top: 50px;
+  font-family: "pushster", cursive;
+  font-weight: 400px;
+  front-size:100px; 
+}
